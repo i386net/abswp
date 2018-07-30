@@ -1,7 +1,7 @@
 def displayInventory(inventory):
 	print('Inventory: ')
 	item_total = 0
-	
+	# sorted inventory
 	for k in sorted(inventory.keys()):
 		print('{:>2} {:<15}'.format(str(inventory[k]), k))
 		item_total += inventory[k]
