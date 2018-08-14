@@ -42,18 +42,19 @@ for quiz in range(35):
         del wrongAnswers[wrongAnswers.index(correctAnswer)]
         wrongAnswers = random.sample(wrongAnswers, 3)
         answerOptions = wrongAnswers + [correctAnswer]
+        # print(answerOptions)
         random.shuffle(answerOptions)
 
         # TODO записать варианты вопросов и ответов в файл билета
-        quizFile.write('%s Choose the capital if state %s. \n' %
-                        (questionNum + 1, states[questionNum]))
+        quizFile.write('%s Choose the capital if state %s. \n' % (questionNum + 1, states[questionNum]))
         for i in range(4):
             quizFile.write(' %s. %s\n' % ('ABCD'[i], answerOptions[i]))
         quizFile.write('\n')
         # TODO записать ключ ответа в файл
         answerKeyFile.write('%s. %s\n' % (questionNum + 1, 'ABCD'[answerOptions.index(correctAnswer)]))
-        quizFile.close()
-        answerKeyFile.close()
+        # FIXME
+        #quizFile.close()
+        #answerKeyFile.close()
 
 
 
