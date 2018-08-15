@@ -36,10 +36,12 @@ for l in range(len(lst)):
         for word in words_found:
             for key in word.keys():
                 if lst[l].strip(',.') == key:
-                    lst[l] = word[key]
+                    if lst[l].endswith('.'):
+                        lst[l] = word[key] + '.'
+                    else:
+                        lst[l] = word[key]
                     del words_found[n]
-# print(lst)
-# print(' '.join(lst))
+
 # записать полученный текст в файл
 file = open('madlibs.txt', 'w')
 # file.write('\n')
