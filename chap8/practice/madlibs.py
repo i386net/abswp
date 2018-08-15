@@ -1,10 +1,3 @@
-# открыть файл
-# подсчитать кол-во и тип ключевых слов
-# получить значения от пользователя по кол-ву и типу ключевых слов
-
-# заменить ключевые слова значениями от пользователя
-# записать полученный текст в файл
-
 # The ADJECTIVE panda walked to the NOUN and then VERB. A nearby NOUN was unaffected by these events.
 
 # открыть файл
@@ -38,6 +31,8 @@ for l in range(len(lst)):
                 if lst[l].strip(',.') == key:
                     if lst[l].endswith('.'):
                         lst[l] = word[key] + '.'
+                    elif lst[l].endswith(','):
+                        lst[l] = word[key] + ','
                     else:
                         lst[l] = word[key]
                     del words_found[n]

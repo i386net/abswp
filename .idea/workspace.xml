@@ -4,8 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f0706e5-a77e-4a5f-8133-29bbfe32cb43" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3f0706e5-a77e-4a5f-8133-29bbfe32cb43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/chap8/practice/madlibs.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap8/practice/madlibs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,26 +32,26 @@
           <entry key="capitalsquiz_answers1" value="1" />
           <entry key="capitalsquiz_answers2" value="1" />
           <entry key="py" value="4" />
-          <entry key="txt" value="10" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="PLAIN_TEXT" value="15" />
           <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="212" />
-          <entry key="py" value="2410" />
-          <entry key="txt" value="13" />
+          <entry key="py" value="2451" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="2622" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="2663" />
         </counts>
       </usages-collector>
     </session>
@@ -62,8 +61,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-381">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="279">
+              <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="95" selection-start-column="95" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -122,6 +139,7 @@
         <option value="$PROJECT_DIR$/chap8/practice/mcw_modified.pyw" />
         <option value="$PROJECT_DIR$/chap8/practice/file.txt" />
         <option value="$PROJECT_DIR$/chap8/exercises/chap8_read_file.py" />
+        <option value="$PROJECT_DIR$/chap8/practice/madlibs1.txt" />
         <option value="$PROJECT_DIR$/chap8/practice/madlibs.txt" />
         <option value="$PROJECT_DIR$/chap8/practice/madlibs.py" />
       </list>
@@ -418,19 +436,26 @@
       <option name="project" value="LOCAL" />
       <updated>1534292331313</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="madlibs">
+      <created>1534323884059</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1534323884059</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18124342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18124342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32988507" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31866953" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31866953" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,7 +500,8 @@
     <MESSAGE value="readme" />
     <MESSAGE value="moved to folder" />
     <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="madlibs" />
+    <option name="LAST_COMMIT_MESSAGE" value="madlibs" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/chap7/exercises/chap7at.py">
@@ -736,14 +762,14 @@
     <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="94" lean-forward="true" selection-start-column="94" selection-end-column="94" />
+          <caret column="95" selection-start-column="95" selection-end-column="95" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-381">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state relative-caret-position="279">
+          <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
         </state>
       </provider>
     </entry>
