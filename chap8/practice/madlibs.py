@@ -37,6 +37,5 @@ for l in range(len(lst)):
 
 # записать полученный текст в файл
 file = open('madlibs.txt', 'w')
-# file.write('\n')
 file.write(' '.join(lst))
 file.close()
