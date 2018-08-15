@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f0706e5-a77e-4a5f-8133-29bbfe32cb43" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chap8/practice/madlibs.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap8/practice/madlibs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +18,14 @@
     <session id="-105636218">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -31,27 +33,27 @@
           <entry key="capitalsquiz35" value="1" />
           <entry key="capitalsquiz_answers1" value="1" />
           <entry key="capitalsquiz_answers2" value="1" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="212" />
-          <entry key="py" value="2451" />
-          <entry key="txt" value="22" />
+          <entry key="Python Console" value="242" />
+          <entry key="py" value="2529" />
+          <entry key="txt" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="2663" />
+          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="Python" value="2771" />
         </counts>
       </usages-collector>
     </session>
@@ -61,26 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="99" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="95" selection-start-column="95" selection-end-column="95" />
+            <state relative-caret-position="294">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -153,52 +137,20 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="abswp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abswp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abswp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abswp" type="462c0819:PsiDirectoryNode" />
-              <item name="chap8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abswp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abswp" type="462c0819:PsiDirectoryNode" />
-              <item name="chap8" type="462c0819:PsiDirectoryNode" />
-              <item name="exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abswp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="abswp" type="462c0819:PsiDirectoryNode" />
-              <item name="chap8" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="abswp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="abswp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PythonRegExp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -443,48 +395,87 @@
       <option name="project" value="LOCAL" />
       <updated>1534323884059</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="madlibs fixed">
+      <created>1534324328230</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1534324328230</updated>
+    </task>
+    <task id="LOCAL-00014" summary="madlibs final">
+      <created>1534324492353</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1534324492353</updated>
+    </task>
+    <task id="LOCAL-00015" summary="madlibs final-2">
+      <created>1534324540277</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1534324540277</updated>
+    </task>
+    <task id="LOCAL-00016" summary="madlibs final-2">
+      <created>1534324562002</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1534324562002</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18124342" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18124342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32988507" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31866953" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31866953" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.29333332" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.35515022" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21579264" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18124342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32873562" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32939914" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32988507" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32988507" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.31866953" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32939914" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.29333332" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.35515022" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -501,7 +492,10 @@
     <MESSAGE value="moved to folder" />
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="madlibs" />
-    <option name="LAST_COMMIT_MESSAGE" value="madlibs" />
+    <MESSAGE value="madlibs fixed" />
+    <MESSAGE value="madlibs final" />
+    <MESSAGE value="madlibs final-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="madlibs final-2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/chap7/exercises/chap7at.py">
@@ -680,13 +674,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap8/exercises/randomQuizGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_dirname_basename.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -752,6 +739,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chap8/exercises/randomQuizGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="99" selection-start-column="99" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -759,17 +760,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="95" selection-start-column="95" selection-end-column="95" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+        <state relative-caret-position="294">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>

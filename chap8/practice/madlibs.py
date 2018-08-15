@@ -14,13 +14,11 @@ for word in file_obj.split():
 
 # получить замены от пользователя в внести их в список словарей
 # вместо пустых значений
-
 for word in words_found:
     for k in word.keys():
         word[k] = input('Enter {}: '.format(k))
 
 #  заменить ключевые слова значениями от пользователя
-
 lst = file_obj.split()
 for l in range(len(lst)):
     for n in range(len(words_found)):
@@ -36,6 +34,6 @@ for l in range(len(lst)):
                     del words_found[n]
 
 # записать полученный текст в файл
-file = open('madlibs.txt', 'w')
+file = open('madlibs.txt', 'w', encoding='UTF-8')
 file.write(' '.join(lst))
 file.close()
