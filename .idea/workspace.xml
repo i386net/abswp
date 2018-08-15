@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f0706e5-a77e-4a5f-8133-29bbfe32cb43" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/chap8/practice/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap8/practice/madlibs.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap8/practice/madlibs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,8 @@
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,108 +33,39 @@
           <entry key="capitalsquiz_answers1" value="1" />
           <entry key="capitalsquiz_answers2" value="1" />
           <entry key="py" value="4" />
-          <entry key="txt" value="1" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="PLAIN_TEXT" value="13" />
           <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1860" />
-          <entry key="txt" value="10" />
+          <entry key="Python Console" value="212" />
+          <entry key="py" value="2410" />
+          <entry key="txt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="1860" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Python" value="2622" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mcw.pyw" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap8/exercises/mcw.pyw">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chap8_dirname_basename.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_dirname_basename.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chap8_exists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_exists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chap8_read_file.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_read_file.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="chap8_write_and_append.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_write_and_append.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chap8_shelve.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_shelve.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="chap8_pprint.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_pprint.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mcw_modified.pyw" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap8/practice/mcw_modified.pyw">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="madlibs.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-381">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -188,13 +120,14 @@
         <option value="$PROJECT_DIR$/chap8/exercises/chap8_pprint.py" />
         <option value="$PROJECT_DIR$/chap8/exercises/chap8_shelve.py" />
         <option value="$PROJECT_DIR$/chap8/practice/mcw_modified.pyw" />
-        <option value="$PROJECT_DIR$/chap8/practice/madlibs.py" />
         <option value="$PROJECT_DIR$/chap8/practice/file.txt" />
         <option value="$PROJECT_DIR$/chap8/exercises/chap8_read_file.py" />
+        <option value="$PROJECT_DIR$/chap8/practice/madlibs.txt" />
+        <option value="$PROJECT_DIR$/chap8/practice/madlibs.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="838" />
     <option name="height" value="1050" />
   </component>
@@ -247,17 +180,18 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PythonRegExp" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/chap8/practice" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/chap8/exercises" />
       <recent name="$PROJECT_DIR$/chap5" />
       <recent name="$PROJECT_DIR$/chap7/practice" />
       <recent name="$PROJECT_DIR$/chap7/exercises" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Google Диск\Pyton_Projects\abswp\chap8\practice" />
+      <recent name="$PROJECT_DIR$/chap8/practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mcw_modified.pyw">
+  <component name="RunManager" selected="Python.madlibs">
     <configuration name="chap8_pprint" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="abswp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,24 +224,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="chap8_read_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="abswp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap8/exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap8/exercises/chap8_read_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="chap8_shelve" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="abswp" />
@@ -326,6 +245,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="chap8_write_and_append" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="abswp" />
@@ -344,6 +266,30 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="madlibs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="abswp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap8/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap8/practice/madlibs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="mcw_modified.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="abswp" />
@@ -362,24 +308,28 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.chap8_read_file" />
       <item itemvalue="Python.chap8_write_and_append" />
       <item itemvalue="Python.chap8_shelve" />
       <item itemvalue="Python.chap8_pprint" />
       <item itemvalue="Python.mcw_modified.pyw" />
+      <item itemvalue="Python.madlibs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.madlibs" />
         <item itemvalue="Python.mcw_modified.pyw" />
         <item itemvalue="Python.chap8_shelve" />
         <item itemvalue="Python.chap8_pprint" />
         <item itemvalue="Python.chap8_write_and_append" />
-        <item itemvalue="Python.chap8_read_file" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="5" BundledDictionary0="django.dic" BundledDictionary1="python.dic" BundledDictionary2="pythonExtras.dic" BundledDictionary3="jetbrains.dic" BundledDictionary4="english.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -461,50 +411,58 @@
       <option name="project" value="LOCAL" />
       <updated>1534291885018</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Default Changelist">
+      <created>1534292331313</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1534292331313</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="974" height="1050" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18153201" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32988507" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31897435" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32988507" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18124342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32988507" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31866953" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.29333332" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.35515022" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.29333332" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21579264" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32873562" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32873562" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32939914" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32988507" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32988507" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -520,34 +478,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_getsize_listdir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap7/exercises/chap7phone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap7/exercises/Chap7xmas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap7/exercises/chap7vowel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap7/exercises/chap7at.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -738,38 +668,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap8/exercises/bacon.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap8/exercises/myCats.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chap8/exercises/bacon.txt" />
+    <entry file="file://$PROJECT_DIR$/chap8/exercises/myCats.txt" />
     <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_shelve.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap8/practice/mcw_modified.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap8/practice/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_exists.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -781,7 +687,7 @@
     <entry file="file://$PROJECT_DIR$/chap8/exercises/chap8_pprint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -795,13 +701,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.cvsignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap8/practice/file.txt" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chap8/exercises/mcw.pyw">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap8/practice/mcw_modified.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="94" lean-forward="true" selection-start-column="94" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap8/practice/madlibs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-381">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
