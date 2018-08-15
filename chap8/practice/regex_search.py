@@ -11,9 +11,8 @@ for file in os.listdir('./files/'):
         # пройтись по списку файлов
         with open(os.path.join('./files/', file), 'r') as file_obj:
             file_content = file_obj.read()
-
-            ms = user_regex.findall(file_content)
+            matched = user_regex.findall(file_content)
             # если результат регулярного выражения подходит скопировать в список
-            matched_strings.append(ms)
+            matched_strings.append(matched)
 # вывести список совпадений на экран или сообщение, что ничего не найдено
 print(matched_strings)
