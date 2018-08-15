@@ -18,9 +18,7 @@ for word in file_obj.split():
 for word in words_found:
     for k in word.keys():
         word[k] = input('Enter {}: '.format(k))
-# print(words_found)
 
-# print(file_obj)
 #  заменить ключевые слова значениями от пользователя
 
 lst = file_obj.split()
