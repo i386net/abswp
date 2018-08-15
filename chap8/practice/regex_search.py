@@ -17,3 +17,5 @@ for file in os.listdir('./files/'):
             matched_strings.append(ms)
 # вывести список совпадений на экран или сообщение, что ничего не найдено
 print(matched_strings)
+for i in range(0):
+    print(i)
