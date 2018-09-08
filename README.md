@@ -1,4 +1,4 @@
 #Automate the boring stuff with Python
 
-* [Chap5](/chap 5)
+* [Chap 5](/chap5)
 * [Chapter 7](/chap7)
