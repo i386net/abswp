@@ -13,6 +13,6 @@ for prev_file in sorted(os.listdir('.')):
         if int(file_num) - int(prev_num) == 2:
             new_num = int(prev_num) + 1
             new_name = file.replace(file_num, '00' + str(new_num))
-            # os.replace(file, new_name)
-            print(file, new_name)
+            os.replace(file, new_name)
+            # print(file, new_name)
 

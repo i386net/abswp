@@ -1,4 +1,3 @@
-import os
 import shutil
 
 print(shutil.move('./tmp_backup', './backup_of_backups/'))
