@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f0706e5-a77e-4a5f-8133-29bbfe32cb43" name="Default Changelist" comment="refactor">
+      <change afterPath="$PROJECT_DIR$/chap9/practice/spam_dir/spam005.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap9/exercises/chap9_shutil_move.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap9/exercises/chap9_shutil_move.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chap9/practice/chap9_find_empty_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/chap9/practice/chap9_find_empty_numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,8 +66,11 @@
       <file leaf-file-name="chap9_find_empty_numbers.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/chap9/practice/chap9_find_empty_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="12">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,7 +78,7 @@
       <file leaf-file-name="chap9_rm.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap9/exercises/chap9_rm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="338">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -102,7 +104,7 @@
       <file leaf-file-name="chap9_zip.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap9/exercises/chap9_zip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-101">
+            <state relative-caret-position="26">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
@@ -173,8 +175,8 @@
         <option value="$PROJECT_DIR$/chap9/practice/chap9_copyfiles.py" />
         <option value="$PROJECT_DIR$/chap9/practice/chap9_find_100mb_files.py" />
         <option value="$PROJECT_DIR$/chap9/exercises/chap9_send2trash.py" />
-        <option value="$PROJECT_DIR$/chap9/practice/chap9_find_empty_numbers.py" />
         <option value="$PROJECT_DIR$/chap9/exercises/chap9_shutil_move.py" />
+        <option value="$PROJECT_DIR$/chap9/practice/chap9_find_empty_numbers.py" />
       </list>
     </option>
   </component>
@@ -646,7 +648,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536345295683</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="refactor">
+      <created>1536397157096</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1536397157096</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView">
@@ -662,11 +671,12 @@
     <frame x="0" y="22" width="1680" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17540687" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17540687" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22362868" side_tool="true" weight="0.29641026" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7763713" weight="0.29553264" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49849308" visible="true" weight="0.35509735" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7763713" visible="true" weight="0.29553264" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49849308" weight="0.35509735" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.3548718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7729189" weight="0.32939914" />
@@ -676,7 +686,6 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="8" sideWeight="0.4996986" weight="0.29333332" />
-      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -769,13 +778,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/chap9/practice/chap9_find_empty_numbers.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="3" />
     </breakpoint-manager>
   </component>
@@ -974,23 +976,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap9/exercises/chap9_send2trash.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap9/exercises/chap9_rm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap7/exercises/chap7at.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1001,7 +986,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap9/practice/spam_dir/spam003.txt">
+    <entry file="file://$PROJECT_DIR$/chap9/practice/spam_dir/spam005.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chap9/practice/spam_dir/spam001.txt">
@@ -1011,20 +996,40 @@
     <entry file="file://$PROJECT_DIR$/chap9/practice/spam_dir/spam005.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/chap9/exercises/chap9_rm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap9/exercises/chap9_send2trash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chap9/exercises/chap9_shutil_move.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/chap9/exercises/chap9_zip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-101">
+        <state relative-caret-position="26">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap9/practice/chap9_find_empty_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="12">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
