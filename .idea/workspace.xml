@@ -4,9 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f0706e5-a77e-4a5f-8133-29bbfe32cb43" name="Default Changelist" comment="test files added">
+    <list default="true" id="3f0706e5-a77e-4a5f-8133-29bbfe32cb43" name="Default Changelist" comment="update readmy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,8 +78,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="104">
-                <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <first_editor relative-caret-position="156">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -337,7 +336,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap9/practice/chap9_find_empty_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap9/practice/chap9_find_gaps_in_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -674,7 +673,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536398233582</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="update readmy">
+      <created>1536407488393</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1536407488393</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView">
@@ -690,12 +696,12 @@
     <frame x="0" y="22" width="1680" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17540687" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17540687" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32939914" />
       <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.22362868" side_tool="true" weight="0.29641026" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7763713" visible="true" weight="0.29553264" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49849308" weight="0.35509735" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5027125" side_tool="true" visible="true" weight="0.35509735" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.77516574" weight="0.29553264" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.4972875" visible="true" weight="0.35509735" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.3548718" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.7729189" weight="0.32939914" />
@@ -794,7 +800,8 @@
     <MESSAGE value="chap9_find_empty_nums" />
     <MESSAGE value="refactor" />
     <MESSAGE value="test files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="test files added" />
+    <MESSAGE value="update readmy" />
+    <option name="LAST_COMMIT_MESSAGE" value="update readmy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1049,8 +1056,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="104">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <first_editor relative-caret-position="156">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
