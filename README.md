@@ -5,3 +5,6 @@
 * [Chapter 8](/chap8)
 * [Chapter 9](/chap9)
 * [Chapter 10](/chap10)
+    * _raise_
+    * _assert_
+    * _logging_
